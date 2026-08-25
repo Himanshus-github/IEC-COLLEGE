@@ -1,0 +1,6 @@
+{
+  "name": "IEC Group of Colleges - Campus Portal",
+  "description": "Interactive campus platform for IEC Group of Colleges with 3D WebGL campus map visualization, faculty and teachers roster with subject allocations and CRUD management, lost & found matching, notices, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
